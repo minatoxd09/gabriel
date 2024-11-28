@@ -58,3 +58,14 @@ p {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+<head>
+    <!-- Código omitido -->
+
+    <title>Guiminamflix</title>
+</head>
+
+<body>
+    <header>GUIMINAMFLIX</header>
+
+    <!-- Código omitido -->
+</body>
